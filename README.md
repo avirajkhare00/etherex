@@ -1,4 +1,4 @@
-#TODO
+# TODO
  - Removing smart contracts of ETHEREX
  - Only working on frontend part of it
 
