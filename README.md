@@ -1,3 +1,7 @@
+#TODO
+ - Removing smart contracts of ETHEREX
+ - Only working on frontend part of it
+
 EtherEx
 =======
 [![Build Status](https://travis-ci.org/etherex/etherex.svg?branch=master)](https://travis-ci.org/etherex/etherex)
